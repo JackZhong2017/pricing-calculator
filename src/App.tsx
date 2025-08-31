@@ -36,7 +36,6 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>🧮 售价计算器</h1>
-        <p>帮助Jack计算产品定价</p>
       </header>
 
       <div className="calculator-container">
