@@ -35,7 +35,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>定价计算器</h1>
+        <h1>🧮 售价计算器</h1>
         <p>帮助Jack计算产品定价</p>
       </header>
 
